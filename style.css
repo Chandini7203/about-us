@@ -1,0 +1,67 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Container */
+.container {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+/* Header */
+header {
+    background: #007BFF;
+    color: white;
+    padding: 20px 0;
+}
+
+header h1 {
+    margin: 0;
+}
+
+.btn {
+    display: inline-block;
+    background: white;
+    color: #007BFF;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+/* Intro Section */
+.intro {
+    padding: 40px 0;
+}
+
+.intro-text h2 {
+    color: #333;
+}
+
+.intro-image {
+    margin-top: 20px;
+}
+
+.intro-image img {
+    width: 100%;
+    max-width: 400px;
+    border-radius: 10px;
+}
+
+/* About Section */
+.about {
+    background: #f4f4f4;
+    padding: 40px 0;
+}
+
+.about-item {
+    margin-bottom: 20px;
+}
+
+.about-item h3 {
+    color: #007BFF;
+}
